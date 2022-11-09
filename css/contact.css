@@ -1,0 +1,31 @@
+.contact{
+    border-collapse: collapse;
+  }
+  
+  .contact tr{
+    height: 7rem;
+  }
+
+  .contact_data{
+    width: 480px;
+  }
+
+  .contact_header{
+    text-align: right;
+    width: 150px;
+    padding-right:10px;
+  }
+
+  .contact_submit{
+    font-size:3rem;
+    color: #fff;
+    background-color: #008B8B;
+    display: block;
+    padding: 10px;
+    border-style: none;
+    margin: 0 auto;
+  }
+
+  .contact_submit:hover{
+    opacity: 0.5;
+  }
